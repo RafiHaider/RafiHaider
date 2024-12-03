@@ -21,6 +21,6 @@
 <body>
     <h1>Welcome to Your Website!</h1>
     <p>This is a customizable website where you can add your name.</p>
-    <p>Created for <strong>[Your Name Here]</strong></p>
+    <p>Created for <strong>[Rafi Haider]</strong></p>
 </body>
 </html>
